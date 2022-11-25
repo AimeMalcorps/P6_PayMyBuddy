@@ -14,6 +14,6 @@ Projet 6 Openclassrooms : Application de transfert d'argent
 
 ## MPD
 
-![Modèle physique de données](MPD_P6.png)
+![Modèle physique de données](MDP_P6.png)
 
 

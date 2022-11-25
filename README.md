@@ -1,4 +1,4 @@
-# P6_PayMyBuddy
+# P6_PayMyBuddyBackend
 Projet 6 Openclassrooms : Application de transfert d'argent
 
 ## Fonctionnalités
@@ -11,3 +11,9 @@ Projet 6 Openclassrooms : Application de transfert d'argent
 ## UML
 
 ![Diagramme UML](UML_P6.png)
+
+## MPD
+
+![Modèle physique de données](MPD_P6.png)
+
+
